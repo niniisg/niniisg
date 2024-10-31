@@ -5,7 +5,7 @@
 👩🏻‍💻 Aspiring Junior Software Engineer sharing my path and discoveries in technology<br/>
 👩🏻‍🎓 A soon-to-be graduate of Holberton Coding School<br/>
 💻 Open to collaboration! Let’s create some amazing projects together!<br/>
-📊 Currently working on Kame, a data management and analysis web app, as a final team project for my last semester<br/>
+📊 Currently working on Kame, a data management and data analysis web app, as a final team project for my last semester<br/>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
