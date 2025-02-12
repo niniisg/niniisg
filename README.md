@@ -4,11 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Nissel+;)](https://git.io/typing-svg) 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-👩🏻‍💻 Junior Software Engineer with a passion for exploring both frontend and backend development.
+👩🏻‍💻 Junior Software Engineer
 
-🎓 Graduate of Holberton School, with a strong foundation in software engineering and hands-on experience in building applications.
+🎓 Graduate of Holberton School
 
-💻 Currently specializing in Fullstack development, still exploring my interests between frontend and backend, and eager to work on diverse projects.
+💻 Currently specializing in Fullstack development, still exploring my interests between frontend and backend
 
 
 
