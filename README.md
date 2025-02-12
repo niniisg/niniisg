@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#B0E0E6&height=120&section=header"/>
 
- 💫 Hi, I'm Nissel Sanchez!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Nissel+;)](https://git.io/typing-svg) 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 👩🏻‍💻 Junior Software Engineer with a passion for exploring both frontend and backend development.
